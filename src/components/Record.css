@@ -9,7 +9,7 @@
 
 .form {
     flex: 1;
-    display: flex;
+    display: flex; 
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -24,7 +24,7 @@
     background-color: #131313;
 }
 
-.form h2 {
+.form h2 { 
     background-color: #131313;
     margin: 40px 0 40px 0;
 }

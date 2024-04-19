@@ -12,6 +12,8 @@ function Accounts() {
             </div>
         </div>
     )
-};
+}; 
+
+
 
 export default Accounts;

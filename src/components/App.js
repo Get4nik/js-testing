@@ -8,7 +8,7 @@ import Budget from './Budget';
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      <Navbar/> 
       <Home/>
       <Record/>
       <Accounts/>

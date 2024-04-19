@@ -28,7 +28,7 @@ nav {
     font-size: 30px;
 }
 
-#links {
+/* #links { 
     display: flex;
     width: 45%;
     padding: 10px;
@@ -67,5 +67,21 @@ nav {
 }
 
 #links li a:hover {
+    color: #66FF00;
+} */
+
+#links{
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#links button{
+    color: white;
+    border: none;
+    font-size: 16pt;
+}
+
+#links button:hover{
     color: #66FF00;
 }
